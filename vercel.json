@@ -1,0 +1,382 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "docs/.vitepress/dist",
+  "framework": null,
+  "cleanUrls": true,
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "X-Frame-Options",
+          "value": "SAMEORIGIN"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        },
+        {
+          "key": "Permissions-Policy",
+          "value": "camera=(), microphone=(), geolocation=()"
+        }
+      ]
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/chatgpt-chinese-guide",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt-how-to-use",
+      "destination": "/chatgpt/chatgpt-beginner-tutorial-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt-tutorial-2026",
+      "destination": "/chatgpt/chatgpt-beginner-tutorial-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-api-practical-key-price-call-zeoapi-security-2026-07",
+      "destination": "/chatgpt/chatgpt-api-practical-key-interface-price-security-zeoapi-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-api-practical-tutorial-key-price-call-zeoapi-security-2026-07-02",
+      "destination": "/chatgpt/chatgpt-api-practical-key-interface-price-security-zeoapi-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-beginner-complete-tutorial-2026",
+      "destination": "/chatgpt/chatgpt-beginner-tutorial-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-beginner-tutorial-signup-login-webapp-chinese-2026",
+      "destination": "/chatgpt/chatgpt-beginner-tutorial-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-china-usage-tutorial-2026",
+      "destination": "/chatgpt/chatgpt-beginner-tutorial-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-china-use-complete-official-web-chinese-mirror-plus-download-2026-07-02",
+      "destination": "/chatgpt/chatgpt-beginner-tutorial-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-china-use-official-web-chinese-mirror-plus-2026-07",
+      "destination": "/chatgpt/chatgpt-beginner-tutorial-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-chinese-free-entry-web-online-beginner-tutorial-20260724",
+      "destination": "/chatgpt/chatgpt-chinese-free-guide-mirror-gpt52-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-chinese-login-guide-2026",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-chinese-tutorial-guide-2026",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-chinese-tutorial-official-entry-mirror-2026",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-chinese-tutorial-official-entry-web-mirror-gpt-image-2-2026",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-chinese-tutorial-official-entry-web-mirror-gpt55-gpt-image-2-flow-20260710-1",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-chinese-tutorial-official-entry-web-mirror-gpt55-image2-full-flow-20260709-4",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-chinese-tutorial-official-entry-web-mirror-gpt56-gpt-image-2-flow-20260710-2",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-chinese-tutorial-official-entry-web-no-download-gpt-image-2-20260709",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-chinese-version-use-guide-2026",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-chinese-web-entry-prompt-office-tutorial-2026",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-chinese-web-guide-gpt55-gpt-image-2-2026",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-codex-programming-guide-2026-new",
+      "destination": "/chatgpt/codex-programming-practical-guide-2026-06",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-complete-tutorial-2026",
+      "destination": "/chatgpt/chatgpt-beginner-tutorial-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-guanwang-rukou-2026",
+      "destination": "/chatgpt/chatgpt-official-url-domestic-gpt5-login-entry",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-guanwang-rukou-guonei-fangwen-zhinan-2026",
+      "destination": "/chatgpt/chatgpt-official-url-domestic-gpt5-login-entry",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-guanwang-rukou-zhongwenban-gpt55-gpt-image-2-2026",
+      "destination": "/chatgpt/chatgpt-official-url-domestic-gpt5-login-entry",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-how-to-use-chinese-beginner-practice-translate-summary-email-table-20260721",
+      "destination": "/chatgpt/chatgpt-beginner-tutorial-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-image-generation-gpt-image-2-prompt-tutorial-2026",
+      "destination": "/chatgpt/chatgpt-image-generation-tutorial-gpt-image-2-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-image-generation-gpt-image-2-prompts-free-2026-06",
+      "destination": "/chatgpt/chatgpt-image-generation-tutorial-gpt-image-2-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-image-prompt-guide-2026-new",
+      "destination": "/chatgpt/chatgpt-image-generation-tutorial-gpt-image-2-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-image-tutorial-gpt-image-2-avatar-cover-poster-prompt-2026",
+      "destination": "/chatgpt/chatgpt-image-generation-tutorial-gpt-image-2-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-images-2-tutorial-prompts-quota-2026-06",
+      "destination": "/chatgpt/chatgpt-image-generation-tutorial-gpt-image-2-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-official-chinese-ultimate-guide-gpt5-gpt4o-mirror-register-20260711",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-official-entry-tutorial-chinese-web-mirror-no-download-20260708",
+      "destination": "/chatgpt/chatgpt-official-url-domestic-gpt5-login-entry",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-official-entry-web-login-2026",
+      "destination": "/chatgpt/chatgpt-official-url-domestic-gpt5-login-entry",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-prompt-complete-templates-2026-06",
+      "destination": "/chatgpt/chatgpt-prompt-templates-writing-office-guide-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-prompt-office-writing-code-image-gpt-image-2-2026-07",
+      "destination": "/chatgpt/chatgpt-prompt-templates-writing-office-guide-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-prompt-office-writing-code-image-templates-2026",
+      "destination": "/chatgpt/chatgpt-prompt-templates-writing-office-guide-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-prompt-template-office-2026",
+      "destination": "/chatgpt/chatgpt-prompt-templates-writing-office-guide-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-prompt-templates-office-writing-code-image-2026-06",
+      "destination": "/chatgpt/chatgpt-prompt-templates-writing-office-guide-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-prompt-tutorial-gpt55-writing-ppt-translation-image-2026",
+      "destination": "/chatgpt/chatgpt-prompt-templates-writing-office-guide-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-prompt-tutorial-office-writing-translation-code-image-chinese-template-2026-07-02",
+      "destination": "/chatgpt/chatgpt-prompt-templates-writing-office-guide-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-shiyong-jiaocheng-2026-06",
+      "destination": "/chatgpt/chatgpt-beginner-tutorial-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-tutorial-2026-register-login-official-web-prompt-image-2026-07-02",
+      "destination": "/chatgpt/chatgpt-beginner-tutorial-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-tutorial-gpt-5-5-ppt-image-2026",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-tutorial-register-login-web-download-prompt-image-2026-07",
+      "destination": "/chatgpt/chatgpt-beginner-tutorial-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-tutorial-thesis-ppt-translation-gpt-image-2-avatar-2026",
+      "destination": "/chatgpt/chatgpt-prompt-templates-writing-office-guide-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-tutorial-webpage-thesis-ppt-image-prompt-2026",
+      "destination": "/chatgpt/chatgpt-prompt-templates-writing-office-guide-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-web-domestic-official-entry-chinese-mirror-mobile-browser-20260709-3",
+      "destination": "/chatgpt/chatgpt-wangyeban-zaixian-shiyong-zhinan-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-web-tutorial-chinese-official-entry-mirror-mobile-desktop-20260709-2",
+      "destination": "/chatgpt/chatgpt-wangyeban-zaixian-shiyong-zhinan-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-web-tutorial-report-ppt-thesis-image-prompt-2026",
+      "destination": "/chatgpt/chatgpt-wangyeban-zaixian-shiyong-zhinan-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-web-version-tutorial-2026",
+      "destination": "/chatgpt/chatgpt-wangyeban-zaixian-shiyong-zhinan-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-web-version-tutorial-2026-20260707-1",
+      "destination": "/chatgpt/chatgpt-wangyeban-zaixian-shiyong-zhinan-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-web-version-tutorial-2026-20260708-1",
+      "destination": "/chatgpt/chatgpt-wangyeban-zaixian-shiyong-zhinan-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-web-version-write-thesis-guide-2026",
+      "destination": "/chatgpt/chatgpt-write-thesis-tutorial-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-webpage-how-to-use-2026",
+      "destination": "/chatgpt/chatgpt-wangyeban-zaixian-shiyong-zhinan-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-webpage-tutorial-china-browser-2026",
+      "destination": "/chatgpt/chatgpt-wangyeban-zaixian-shiyong-zhinan-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-xiazai-anzhuang-jiaocheng-diannao-shouji-2026",
+      "destination": "/chatgpt/chatgpt-app-download-install-guide-2026-new",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/chatgpt-zhongwenban-guonei-fangwen-gpt55-image2-2026",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/codex-cli-install-tutorial-official-download-windows-project-zeogpt-2026-07-02",
+      "destination": "/chatgpt/codex-programming-practical-guide-2026-06",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/codex-cli-install-windows-macos-linux-2026-06",
+      "destination": "/chatgpt/codex-programming-practical-guide-2026-06",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/codex-install-official-download-cli-windows-china-guide-2026-07",
+      "destination": "/chatgpt/codex-programming-practical-guide-2026-06",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/gpt-image-2-chatgpt-prompt-complete-guide-2026-06",
+      "destination": "/chatgpt/chatgpt-image-generation-tutorial-gpt-image-2-2026",
+      "permanent": true
+    },
+    {
+      "source": "/chatgpt/gpt-image-2-prompt-templates-design-2026-06",
+      "destination": "/chatgpt/chatgpt-image-generation-tutorial-gpt-image-2-2026",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt/2026-chatgpt-how-to-use",
+      "destination": "/chatgpt/chatgpt-beginner-tutorial-2026",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt/chatgpt-image-prompt-guide-2026",
+      "destination": "/chatgpt/chatgpt-image-generation-tutorial-gpt-image-2-2026",
+      "permanent": true
+    },
+    {
+      "source": "/guides/chatgpt/chatgpt-zhongwenban-zenme-yong-2026-gpt55-image2",
+      "destination": "/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.chatgpt-tutorials.com"
+        }
+      ],
+      "destination": "https://chatgpt-tutorials.com/$1",
+      "permanent": true
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "chatgpt-tutorials",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs --host 0.0.0.0",
+    "build": "vitepress build docs && node scripts/sync-helper-sitemaps.mjs && node scripts/sync-vercel-redirects.mjs",
+    "sync:sitemaps": "node scripts/sync-helper-sitemaps.mjs",
+    "sync:redirects": "node scripts/sync-vercel-redirects.mjs",
+    "preview": "vitepress preview docs --host 0.0.0.0"
+  },
+  "devDependencies": {
+    "vitepress": "1.6.4"
+  }
+}

@@ -1,0 +1,25 @@
+node_modules
+docs/.vitepress/cache
+docs/.vitepress/dist
+.DS_Store
+*.log
+
+# Local-only data and audit artifacts
+research/
+internal/
+.playwright-cli/
+.chrome-*/
+output/
+*.local
+*.env
+!.env.example
+current*.png
+updated*.png
+notice-*.png
+reference-home*.png
+preview*.png
+
+.vercel
+
+.vitepress/cache/
+.vitepress/dist/
