@@ -14,6 +14,7 @@
 ## ChatGPT教程
 
 - [ChatGPT教程中心：官网入口、网页版、中文版与使用方法（2026）](https://chatgpt-tutorials.com/chatgpt)
+- [Chat GPT 中文版免费：国内使用指南（支持GPT-6 & GPT-5.6 Sol）【2026年9月持续更新】](https://chatgpt-tutorials.com/chatgpt/chatgpt-jingxiang-wangzhan-shice-tuijian-2026)
 - [ChatGPT官网最新地址：chatgpt.com登录、网页版与中文版使用指南【2026年9月更新】](https://chatgpt-tutorials.com/chatgpt/chatgpt-latest-official-address-domestic-chinese-guide-2026)
 - [ChatGPT网页版使用教程：官网入口、电脑手机登录与中文版使用【2026年9月】](https://chatgpt-tutorials.com/chatgpt/chatgpt-wangyeban-zaixian-shiyong-zhinan-2026)
 - [ChatGPT中文版怎么用？国内使用与官网入口完整指南【2026年9月】](https://chatgpt-tutorials.com/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026)
@@ -32,7 +33,6 @@
 - [Codex安装教程与首次运行：Windows、macOS、Linux登录、项目权限和VS Code验证【2026年8月】](https://chatgpt-tutorials.com/chatgpt/codex-cli-first-run-windows-macos-linux-vscode-202608)
 - [ChatGPT怎么用？从第一次提问到文件、图片与办公实战（2026新手教程）](https://chatgpt-tutorials.com/chatgpt/chatgpt-beginner-tutorial-2026)
 - [ChatGPT官网入口：官方网址、网页版登录与国内使用指南【2026最新】](https://chatgpt-tutorials.com/chatgpt/chatgpt-official-url-domestic-gpt5-login-entry)
-- [ChatGPT镜像网站哪个好？2026稳定平台实测推荐与避坑指南](https://chatgpt-tutorials.com/chatgpt/chatgpt-jingxiang-wangzhan-shice-tuijian-2026)
 - [ChatGPT怎么导出聊天记录？网页版导出、本地保存、备份与找回教程【2026年8月】](https://chatgpt-tutorials.com/chatgpt/chatgpt-chat-history-export-backup-recover-web-guide-20260731)
 - [ChatGPT怎么注册？官网账号创建、邮箱验证与登录失败排查【2026年8月更新】](https://chatgpt-tutorials.com/chatgpt/chatgpt-register-login-tutorial-2026)
 - [ChatGPT语音对话怎么用？网页版、手机App与语音输入完整教程【2026年8月更新】](https://chatgpt-tutorials.com/chatgpt/chatgpt-voice-conversation-how-to-use-mobile-web-guide-2026)
