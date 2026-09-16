@@ -389,6 +389,7 @@ const curatedSidebar = [
       
        { text: 'ChatGPT网页版使用教程：官网入口、电脑手机登录与中文版使用【2026年9月】', link: '/chatgpt/chatgpt-wangyeban-zaixian-shiyong-zhinan-2026' },
       { text: 'ChatGPT教程中心', link: '/chatgpt/' },
+      { text: 'ChatGPT需要下载吗？网页版和客户端怎么选【2026年9月】', link: '/chatgpt/chatgpt-need-download-web-or-client-choose-2026-09' },
       { text: 'ChatGPT官方下载与安装', link: CORE_ROUTES.download },
       { text: '网页版打不开与登录失败', link: '/chatgpt/chatgpt-web-not-working-login-failed-loading-fix-2026' },
       { text: '语音对话怎么用', link: CORE_ROUTES.voiceUse },

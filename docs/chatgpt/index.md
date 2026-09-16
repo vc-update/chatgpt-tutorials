@@ -42,6 +42,7 @@ outline: deep
 | 第一次接触 ChatGPT，不会提问 | [ChatGPT怎么用：从第一次提问到实战](/chatgpt/chatgpt-beginner-tutorial-2026) | Prompt 结构、连续追问、结果复核和新手任务 |
 | 想找中文版或了解国内使用路线 | [ChatGPT中文版怎么用](/chatgpt/openai-chatgpt-chinese-guide-gpt5-o3-models-2026) | 官方与第三方边界、中文设置、注册登录和模型菜单核验 |
 | 想注册或登录账号 | [ChatGPT怎么注册](/chatgpt/chatgpt-register-login-tutorial-2026) | 注册准备、邮箱验证、登录异常、首次对话与安全清单 |
+| 不确定要不要装客户端 | [ChatGPT需要下载吗？网页版和客户端怎么选](/chatgpt/chatgpt-need-download-web-or-client-choose-2026-09) | 决策表、功能差异对比、聊天记录是否同步、装完常见问题 |
 | 想下载官方 App 或桌面端 | [ChatGPT官方下载与安装](/chatgpt/chatgpt-app-download-install-guide-2026-new) | Windows、Mac、iPhone、Android、商店搜不到与安装失败排查 |
 | 网页打不开、白屏或一直加载 | [ChatGPT网页版打不开解决方法](/chatgpt/chatgpt-web-not-working-login-failed-loading-fix-2026) | 网址、服务状态、浏览器、Cookie、网络和设备的排查顺序 |
 
