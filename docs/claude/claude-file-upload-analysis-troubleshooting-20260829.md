@@ -97,6 +97,8 @@ Claude文件分析适合把 PDF、文档、表格、图片和项目资料转换�
 
 不要反复上传包含敏感信息的原文件来“碰运气”。先复制一小段公开或脱敏内容测试流程，确认工具和提示词有效后再处理完整材料。
 
+上面是速查表。如果某一项需要更细的排查步骤，见 [Claude上传文件失败怎么办？Excel、PDF、图片报错与大小限制排查](/claude/claude-file-upload-failed-excel-pdf-image-error-fix-2026-09)，里面按 Excel 传不上去、Excel 数据读错、PDF 读不全、图片识别不准、上传转圈分别展开，并说明体积限制怎么判断。
+
 ## Claude文件分析和Claude Code不是一回事
 
 Claude网页文件上传主要处理对话中的附件；Claude Code面向本地项目、终端命令和代码仓库，涉及更大的文件权限和执行风险。网页上传教程不能替代[Claude Code安装与项目权限教程](/claude/claude-code-how-to-use-install-project-mcp-permissions-2026)。

@@ -336,6 +336,7 @@ const claudeSidebar = [
       { text: 'Claude使用指南目录', link: '/claude/' },
       { text: 'Claude官网入口与官方下载', link: '/claude/claude-official-entry-download-login-guide-2026' },
       { text: 'Claude上传文件与分析排错', link: '/claude/claude-file-upload-analysis-troubleshooting-20260829' },
+      { text: 'Claude上传文件失败：Excel、PDF、图片报错排查', link: '/claude/claude-file-upload-failed-excel-pdf-image-error-fix-2026-09' },
       { text: 'Claude 终极新手指南（2026年3月）', link: '/claude/claude-ultimate-beginner-guide-2026' },
       { text: 'Claude中文版怎么用：中文设置与文件分析', link: '/claude/claude-chinese-china-guide-2026' },
       { text: 'Claude Code教程：安装、MCP与常见报错', link: '/claude/claude-code-how-to-use-install-project-mcp-permissions-2026' },

@@ -19,6 +19,7 @@ outline: deep
 |:---|:---|:---|
 | Claude官网入口与下载 | [claude.ai登录、官方下载与中文版使用](/claude/claude-official-entry-download-login-guide-2026) | 官方域名、下载、中文使用与国内登录排错 |
 | Claude上传文件 | [PDF、Word、图片与文件分析排错指南](/claude/claude-file-upload-analysis-troubleshooting-20260829) | 添加附件、先验收读取范围、分析引用与上传失败排查 |
+| Claude上传文件失败、传不了Excel | [Excel、PDF、图片报错与大小限制排查](/claude/claude-file-upload-failed-excel-pdf-image-error-fix-2026-09) | 扩展名与格式不符、含宏与合并单元格、PDF扫描件、图片识别、上传转圈 |
 | Claude新手入门 | [Claude终极新手指南](/claude/claude-ultimate-beginner-guide-2026) | 中文提问、长文、文件、Artifacts和模型选择 |
 | Claude中文版怎么用 | [官网入口、中文设置、文件分析与国内访问](/claude/claude-chinese-china-guide-2026) | 官方与第三方区别、中文使用、文件分析和安全排错 |
 | Claude Code教程 | [Windows/macOS安装、首次运行、MCP与常见报错](/claude/claude-code-how-to-use-install-project-mcp-permissions-2026) | 原生安装、项目验证、CLAUDE.md、MCP和权限 |
